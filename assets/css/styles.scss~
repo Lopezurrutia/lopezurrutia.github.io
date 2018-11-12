@@ -1,0 +1,6 @@
+---
+---
+@import "main";
+img.myimg{
+    height:200px;
+}
