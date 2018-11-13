@@ -1,0 +1,14 @@
+HOWTO MAKE PUBLICATION LIST
+-In CV.bib list all your publications
+-Cite them in publications.tex list
+-Do a latex and bibtex
+latex publications.tex && bibtex publications && latex publications.tex
+-With replaceISI.sh add accents and special characters, underline your name, etc
+./replaceISI.sh publications.bbl
+-Copy the bibitems in the new publications.bbl into the CV.tex file
+
+
+upload to www.telefonica.net/web2/lopezurrutia
+ftp ftp.telefonica.net
+gelulaura@telefonica.net
+cacavaca

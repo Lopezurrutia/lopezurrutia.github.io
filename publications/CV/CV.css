@@ -1,0 +1,65 @@
+/* Century Schoolbook font is very similar to Computer Modern Math: cmmi */
+.MATH    { font-family: "Century Schoolbook", serif; }
+.MATH I  { font-family: "Century Schoolbook", serif; font-style: italic }
+.BOLDMATH { font-family: "Century Schoolbook", serif; font-weight: bold }
+
+/* implement both fixed-size and relative sizes */
+SMALL.XTINY		{ font-size : xx-small }
+SMALL.TINY		{ font-size : x-small  }
+SMALL.SCRIPTSIZE	{ font-size : smaller  }
+SMALL.FOOTNOTESIZE	{ font-size : small    }
+SMALL.SMALL		{  }
+BIG.LARGE		{  }
+BIG.XLARGE		{ font-size : large    }
+BIG.XXLARGE		{ font-size : x-large  }
+BIG.HUGE		{ font-size : larger   }
+BIG.XHUGE		{ font-size : xx-large }
+
+/* heading styles */
+H1		{  }
+H2		{  }
+H3		{  }
+H4		{  }
+H5		{  }
+
+/* mathematics styles */
+DIV.displaymath		{ }	/* math displays */
+TD.eqno			{ }	/* equation-number cells */
+
+
+/* document-specific styles come next */
+DIV.center		{   }
+DIV.navigation		{   }
+SPAN.textbf		{ font-weight: bold  }
+SPAN.textit		{ font-style: italic  }
+#txt263		{ text-decoration: underline;  }
+#txt265		{ text-decoration: underline;  }
+#txt267		{ text-decoration: underline;  }
+#txt269		{ text-decoration: underline;  }
+#txt271		{ text-decoration: underline;  }
+#txt273		{ text-decoration: underline;  }
+#txt275		{ text-decoration: underline;  }
+#txt277		{ text-decoration: underline;  }
+#txt278		{ text-decoration: underline;  }
+#txt279		{ text-decoration: underline;  }
+#txt281		{ text-decoration: underline;  }
+#txt282		{ text-decoration: underline;  }
+#txt283		{ text-decoration: underline;  }
+#txt285		{ text-decoration: underline;  }
+#txt286		{ text-decoration: underline;  }
+#txt287		{ text-decoration: underline;  }
+#txt288		{ text-decoration: underline;  }
+#txt290		{ text-decoration: underline;  }
+#txt291		{ text-decoration: underline;  }
+#txt292		{ text-decoration: underline;  }
+#txt293		{ text-decoration: underline;  }
+#txt46		{ text-decoration: underline;  }
+#txt48		{ text-decoration: underline;  }
+#txt51		{ text-decoration: underline;  }
+#txt53		{ text-decoration: underline;  }
+#txt54		{ text-decoration: underline;  }
+#txt55		{ text-decoration: underline;  }
+#txt56		{ text-decoration: underline;  }
+#txt57		{ text-decoration: underline;  }
+#txt58		{ text-decoration: underline;  }
+#txt60		{ text-decoration: underline;  }

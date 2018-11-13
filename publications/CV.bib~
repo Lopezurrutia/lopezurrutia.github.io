@@ -1,0 +1,875 @@
+
+@article{ ISI:000397107300020,
+Author = {Alvarez, Eva and Nogueira, Enrique and Lopez-Urrutia, Angel},
+Title = {In Vivo Single-Cell Fluorescence and Size Scaling of Phytoplankton
+   Chlorophyll Content},
+Journal = {Applied and environmental microbiology},
+Year = {2017},
+Volume = {83},
+Number = {7},
+Month = {APR},
+DOI = {10.1128/AEM.03317-16},
+Article-Number = {UNSP e03317-16},
+ISSN = {0099-2240},
+EISSN = {1098-5336},
+ResearcherID-Numbers = {Alvarez, Eva/C-3612-2018},
+ORCID-Numbers = {Alvarez, Eva/0000-0002-6776-1029},
+Times-Cited = {2},
+Unique-ID = {ISI:000397107300020},
+}
+
+@article{ ISI:000397732400001,
+Author = {Gonzalez, Pablo and Alvarez, Eva and Diez, Jorge and Lopez-Urrutia,
+   Angel and del Coz, Juan Jose},
+Title = {Validation methods for plankton image classification systems},
+Journal = {Limnology and oceanography-methods},
+Year = {2017},
+Volume = {15},
+Number = {3},
+Pages = {221-237},
+Month = {MAR},
+DOI = {10.1002/lom3.10151},
+ISSN = {1541-5856},
+ResearcherID-Numbers = {Gonzalez-Gonzalez, Pablo/J-5543-2018
+   Alvarez, Eva/C-3612-2018
+   },
+ORCID-Numbers = {Gonzalez-Gonzalez, Pablo/0000-0002-9250-0920
+   Alvarez, Eva/0000-0002-6776-1029
+   Diez-Pelaez, Jorge/0000-0002-1314-2441
+   Coz Velasco, Juan Jose del/0000-0002-4288-3839},
+Times-Cited = {2},
+Unique-ID = {ISI:000397732400001},
+}
+
+@article{ ISI:000374377200002,
+Author = {Garcia, Francisca C. and Elena Garcia-Martin, Enma and Gonzalez Taboada,
+   Fernando and Sal, Sofia and Serret, Pablo and Lopez-Urrutia, Angel},
+Title = {The allometry of the smallest: superlinear scaling of microbial
+   metabolic rates in the Atlantic Ocean},
+Journal = {ISME Journal},
+Year = {2016},
+Volume = {10},
+Number = {5},
+Pages = {1029-1036},
+Month = {MAY},
+DOI = {10.1038/ismej.2015.203},
+ISSN = {1751-7362},
+EISSN = {1751-7370},
+ResearcherID-Numbers = {Gonzalez Taboada, Fernando/L-2783-2015},
+ORCID-Numbers = {Gonzalez Taboada, Fernando/0000-0001-7634-887X},
+Times-Cited = {6},
+Unique-ID = {ISI:000374377200002},
+}
+
+@article{ ISI:000370178100005,
+Author = {Alvarez, Eva and Moran, Xose Anxelu G. and Lopez-Urrutia, Angel and
+   Nogueira, Enrique},
+Title = {Size-dependent photoacclimation of the phytoplankton community in
+   temperate shelf waters (southern Bay of Biscay)},
+Journal = {Marine ecology progress series},
+Year = {2016},
+Volume = {543},
+Pages = {73-87},
+Month = {FEB 3},
+DOI = {10.3354/meps11580},
+ISSN = {0171-8630},
+EISSN = {1616-1599},
+ResearcherID-Numbers = {Alvarez, Eva/C-3612-2018
+   Moran, Xose Anxelu/K-9647-2014},
+ORCID-Numbers = {Alvarez, Eva/0000-0002-6776-1029
+   Moran, Xose Anxelu/0000-0002-9823-5339},
+Times-Cited = {2},
+Unique-ID = {ISI:000370178100005},
+}
+
+@article{ ISI:000363448500052,
+Author = {Garcia, Francisca C. and Alonso-Saez, Laura and Moran, Xose Anxelu G.
+   and Lopez-Urrutia, Angel},
+Title = {Seasonality in molecular and cytometric diversity of marine
+   bacterioplankton: the re-shuffling of bacterial taxa by vertical mixing},
+Journal = {Environmental microbiology},
+Year = {2015},
+Volume = {17},
+Number = {10, SI},
+Pages = {4133-4142},
+Month = {OCT},
+DOI = {10.1111/1462-2920.12984},
+ISSN = {1462-2912},
+EISSN = {1462-2920},
+ResearcherID-Numbers = {Moran, Xose Anxelu/K-9647-2014},
+ORCID-Numbers = {Moran, Xose Anxelu/0000-0002-9823-5339},
+Times-Cited = {7},
+Unique-ID = {ISI:000363448500052},
+}
+
+@article{ ISI:000357719500011,
+Author = {Moran, Xose Anxelu G. and Alonso-Saez, Laura and Nogueira, Enrique and
+   Ducklow, Hugh W. and Gonzalez, Natalia and Lopez-Urrutia, Angel and
+   Diaz-Perez, Laura and Calvo-Diaz, Alejandra and Arandia-Gorostidi,
+   Nestor and Huete-Stauffer, Tamara M.},
+Title = {More, smaller bacteria in response to ocean's warming?},
+Journal = {Proceedings of the Royal Society B-Biological Sciences},
+Year = {2015},
+Volume = {282},
+Number = {1810},
+Month = {JUL 7},
+DOI = {10.1098/rspb.2015.0371},
+Article-Number = {20150371},
+ISSN = {0962-8452},
+EISSN = {1471-2954},
+ResearcherID-Numbers = {Moran, Xose Anxelu/K-9647-2014
+   Gonzalez, natalia/H-9101-2015
+   },
+ORCID-Numbers = {Moran, Xose Anxelu/0000-0002-9823-5339
+   Gonzalez, natalia/0000-0003-0240-8221
+   Huete-Stauffer, Tamara Megan/0000-0001-7331-8341},
+Times-Cited = {24},
+Unique-ID = {ISI:000357719500011},
+}
+
+@article{ ISI:000357894500009,
+Author = {Sal, Sofia and Alonso-Saez, Laura and Bueno, Juan and Garcia, Francisca
+   C. and Lopez-Urrutia, Angel},
+Title = {Thermal adaptation, phylogeny, and the unimodal size scaling of marine
+   phytoplankton growth},
+Journal = {Limnology and oceanography},
+Year = {2015},
+Volume = {60},
+Number = {4},
+Pages = {1212-1221},
+Month = {JUL},
+DOI = {10.1002/lno.10094},
+ISSN = {0024-3590},
+EISSN = {1939-5590},
+ResearcherID-Numbers = {CESAM, UA/M-3762-2015
+   },
+ORCID-Numbers = {Bueno, Juan/0000-0002-6465-2724},
+Times-Cited = {7},
+Unique-ID = {ISI:000357894500009},
+}
+
+@article{ ISI:000354490100001,
+Author = {Lopez-Urrutia, Angel and Moran, Xose Anxelu G.},
+Title = {Temperature affects the size-structure of phytoplankton communities in
+   the ocean},
+Journal = {Limnology and oceanography},
+Year = {2015},
+Volume = {60},
+Number = {3},
+Pages = {733-738},
+Month = {MAY},
+DOI = {10.1002/lno.10049},
+ISSN = {0024-3590},
+EISSN = {1939-5590},
+ResearcherID-Numbers = {Moran, Xose Anxelu/K-9647-2014},
+ORCID-Numbers = {Moran, Xose Anxelu/0000-0002-9823-5339},
+Times-Cited = {14},
+Unique-ID = {ISI:000354490100001},
+}
+
+@article{ ISI:000352112900020,
+Author = {Regaudie-de-Gioux, A. and Sal, S. and Lopez-Urrutia, A.},
+Title = {Poor correlation between phytoplankton community growth rates and
+   nutrient concentration in the sea},
+Journal = {Biogeosciences},
+Year = {2015},
+Volume = {12},
+Number = {6},
+Pages = {1915-1923},
+DOI = {10.5194/bg-12-1915-2015},
+ISSN = {1726-4170},
+EISSN = {1726-4189},
+ResearcherID-Numbers = {Regaudie-de-Gioux, Aurore/G-8116-2014},
+ORCID-Numbers = {Regaudie-de-Gioux, Aurore/0000-0001-9015-8589},
+Times-Cited = {1},
+Unique-ID = {ISI:000352112900020},
+}
+
+@article{ ISI:000339951300015,
+Author = {Garcia-Munoz, Cristina and Garcia, Carlos M. and Lubian, Luis M. and
+   Lopez-Urrutia, Angel and Hernandez-Leon, Santiago and Ameneiro, Julia},
+Title = {Metabolic state along a summer north-south transect near the Antarctic
+   Peninsula: a size spectra approach},
+Journal = {Journal of plankton research},
+Year = {2014},
+Volume = {36},
+Number = {4},
+Pages = {1074-1091},
+Month = {JUL-AUG},
+DOI = {10.1093/plankt/fbu042},
+ISSN = {0142-7873},
+EISSN = {1464-3774},
+ResearcherID-Numbers = {Lopez-Urrutia, Angel/L-2636-2014
+   LUBIAN, LUIS/L-7241-2014
+   },
+ORCID-Numbers = {Garcia, Carlos M/0000-0002-8920-9024},
+Times-Cited = {2},
+Unique-ID = {ISI:000339951300015},
+}
+
+@article{ ISI:000343940300005,
+Author = {Vandromme, P. and Nogueira, E. and Huret, M. and Lopez-Urrutia, A. and
+   Gonzalez-Nuevo Gonzalez, G. and Sourisseau, M. and Petitgas, P.},
+Title = {Springtime zooplankton size structure over the continental shelf of the
+   Bay of Biscay},
+Journal = {Ocean Science},
+Year = {2014},
+Volume = {10},
+Number = {5},
+Pages = {821-835},
+DOI = {10.5194/os-10-821-2014},
+ISSN = {1812-0784},
+ORCID-Numbers = {Huret, Martin/0000-0003-0023-378X},
+Times-Cited = {14},
+Unique-ID = {ISI:000343940300005},
+}
+
+@article{ ISI:000335827500007,
+Author = {Garcia, Francisca C. and Lopez-Urrutia, Angel and Moran, Xose Anxelu G.},
+Title = {Automated clustering of heterotrophic bacterioplankton in flow cytometry
+   data},
+Journal = {Aquatic microbial ecology},
+Year = {2014},
+Volume = {72},
+Number = {2},
+Pages = {175-185},
+DOI = {10.3354/ame01691},
+ISSN = {0948-3055},
+EISSN = {1616-1564},
+ResearcherID-Numbers = {Lopez-Urrutia, Angel/L-2636-2014
+   Moran, Xose Anxelu/K-9647-2014},
+ORCID-Numbers = {Moran, Xose Anxelu/0000-0002-9823-5339},
+Times-Cited = {3},
+Unique-ID = {ISI:000335827500007},
+}
+
+@article{ ISI:000329906200015,
+Author = {Alvarez, Eva and Moyano, Marta and Lopez-Urrutia, Angel and Nogueira,
+   Enrique and Scharek, Renate},
+Title = {Routine determination of plankton community composition and size
+   structure: a comparison between FlowCAM and light microscopy},
+Journal = {Journal of plankton research},
+Year = {2014},
+Volume = {36},
+Number = {1},
+Pages = {170-184},
+Month = {JAN-FEB},
+DOI = {10.1093/plankt/fbt069},
+ISSN = {0142-7873},
+EISSN = {1464-3774},
+ResearcherID-Numbers = {Scharek, Renate/M-4530-2018
+   Alvarez, Eva/C-3612-2018
+   Lopez-Urrutia, Angel/L-2636-2014
+   },
+ORCID-Numbers = {Scharek, Renate/0000-0001-9306-9047
+   Alvarez, Eva/0000-0002-6776-1029
+   Moyano, Marta/0000-0002-3026-9225},
+Times-Cited = {19},
+Unique-ID = {ISI:000329906200015},
+}
+
+@article{ ISI:000325981800016,
+Author = {Gonzalez, Pablo and Alvarez, Eva and Barranquero, Jose and Diez, Jorge
+   and Gonzalez-Quiros, Rafael and Nogueira, Enrique and Lopez-Urrutia,
+   Angel and Jose del Coz, Juan},
+Title = {Multiclass Support Vector Machines With Example-Dependent Costs Applied
+   to Plankton Biomass Estimation},
+Journal = {IEEE Transactions on neural networks and learning systems},
+Year = {2013},
+Volume = {24},
+Number = {11},
+Pages = {1901-1905},
+Month = {NOV},
+DOI = {10.1109/TNNLS.2013.2271535},
+ISSN = {2162-237X},
+EISSN = {2162-2388},
+ResearcherID-Numbers = {Diez, Jorge/G-7806-2015
+   Gonzalez-Gonzalez, Pablo/J-5543-2018
+   Gonzalez-Quiros, Rafael/F-6984-2016
+   Lopez-Urrutia, Angel/L-2636-2014
+   del Coz, Juan/K-7952-2014
+   Alvarez, Eva/C-3612-2018},
+ORCID-Numbers = {Diez, Jorge/0000-0002-1314-2441
+   Gonzalez-Gonzalez, Pablo/0000-0002-9250-0920
+   Gonzalez-Quiros, Rafael/0000-0001-5381-1083
+   del Coz, Juan/0000-0002-4288-3839
+   Alvarez, Eva/0000-0002-6776-1029},
+Times-Cited = {5},
+Unique-ID = {ISI:000325981800016},
+}
+
+@article{ ISI:000327916900003,
+Author = {Garcia-Munoz, Cristina and Lopez-Urrutia, Angel and Lubian, Luis M. and
+   Garcia, Carlos M. and Hernandez-Leon, Santiago},
+Title = {A comparison of primary production models in an area of high mesoscale
+   variability (South Shetland Islands, Antarctica)},
+Journal = {Journal of sea research},
+Year = {2013},
+Volume = {83},
+Number = {SI},
+Pages = {30-39},
+Month = {OCT},
+DOI = {10.1016/j.seares.2013.03.015},
+ISSN = {1385-1101},
+EISSN = {1873-1414},
+ResearcherID-Numbers = {Lopez-Urrutia, Angel/L-2636-2014
+   LUBIAN, LUIS/L-7241-2014
+   },
+ORCID-Numbers = {Garcia, Carlos M/0000-0002-8920-9024},
+Times-Cited = {3},
+Unique-ID = {ISI:000327916900003},
+}
+
+@article{ ISI:000327197700005,
+Author = {Vazquez-Dominguez, Evaristo and Moran, Xose Anxelu G. and Lopez-Urrutia,
+   Angel},
+Title = {Photoacclimation of picophytoplankton in the central Cantabrian Sea},
+Journal = {Marine ecology progress series},
+Year = {2013},
+Volume = {493},
+Pages = {43-56},
+DOI = {10.3354/meps10549},
+ISSN = {0171-8630},
+EISSN = {1616-1599},
+ResearcherID-Numbers = {Moran, Xose Anxelu/K-9647-2014
+   Lopez-Urrutia, Angel/L-2636-2014},
+ORCID-Numbers = {Moran, Xose Anxelu/0000-0002-9823-5339
+   },
+Times-Cited = {2},
+Unique-ID = {ISI:000327197700005},
+}
+
+@article{ ISI:000304354600003,
+Author = {Bueno, Juan and Lopez-Urrutia, Angel},
+Title = {The Offspring-Development-Time/Offspring-Number Trade-Off},
+Journal = {American naturalist},
+Year = {2012},
+Volume = {179},
+Number = {6},
+Pages = {E196-E203},
+Month = {JUN},
+DOI = {10.1086/665652},
+ISSN = {0003-0147},
+ResearcherID-Numbers = {Bueno, Juan/E-9168-2015
+   Lopez-Urrutia, Angel/L-2636-2014},
+ORCID-Numbers = {Bueno, Juan/0000-0002-6465-2724
+   },
+Times-Cited = {3},
+Unique-ID = {ISI:000304354600003},
+}
+
+@article{ ISI:000303340700002,
+Author = {Alvarez, Eva and Lopez-Urrutia, Angel and Nogueira, Enrique},
+Title = {Improvement of plankton biovolume estimates derived from image-based
+   automatic sampling devices: application to FlowCAM},
+Journal = {Journal of plankton research},
+Year = {2012},
+Volume = {34},
+Number = {6},
+Pages = {454-469},
+Month = {JUN},
+DOI = {10.1093/plankt/fbs017},
+ISSN = {0142-7873},
+ResearcherID-Numbers = {Lopez-Urrutia, Angel/L-2636-2014
+   Alvarez, Eva/C-3612-2018},
+ORCID-Numbers = {Alvarez, Eva/0000-0002-6776-1029},
+Times-Cited = {26},
+Unique-ID = {ISI:000303340700002},
+}
+
+@article{ ISI:000303958000007,
+Author = {Bode, Antonio and Alvarez-Ossorio, Maria Teresa and Miranda, Ana and
+   Lopez-Urrutia, Angel and Valdes, Luis},
+Title = {Comparing copepod time-series in the north of Spain: Spatial
+   autocorrelation of community composition},
+Journal = {Progress in oceanography},
+Year = {2012},
+Volume = {97},
+Number = {SI},
+Pages = {108-119},
+Month = {MAY-JUL},
+DOI = {10.1016/j.pocean.2011.11.013},
+ISSN = {0079-6611},
+ResearcherID-Numbers = {Bode, Antonio/B-7949-2009
+   Lopez-Urrutia, Angel/L-2636-2014
+   Miranda, Ana/L-2682-2014},
+ORCID-Numbers = {Bode, Antonio/0000-0002-9535-2548
+   Miranda, Ana/0000-0003-4872-0632},
+Times-Cited = {9},
+Unique-ID = {ISI:000303958000007},
+}
+
+@article{Acuna2011b,
+Author = {Acuna, Jose Luis and Lopez-Urrutia, Angel and Colin, Sean},
+Title = {Primitive Ladder-of-Life Thinking Has Evolved Response},
+Journal = {Science},
+Year = {2011},
+Volume = {334},
+Number = {6061},
+Pages = {1347-1348},
+Month = {DEC 9},
+url = {Acuna2011b.pdf}
+DOI = {10.1126/science.334.6061.1347-b},
+ISSN = {0036-8075},
+ResearcherID-Numbers = {Acuna Fernandez, Jose Luis/I-7482-2016
+   Lopez-Urrutia, Angel/L-2636-2014
+   },
+ORCID-Numbers = {Acuna Fernandez, Jose Luis/0000-0003-3306-7212
+   Colin, Sean/0000-0003-4463-5588},
+Times-Cited = {0},
+Unique-ID = {ISI:000297787700025},
+}
+
+
+
+@article{Alvarez2011,
+Author = {Alvarez, Eva and Lopez-Urrutia, Angel and Nogueira, Enrique and Fraga,
+   Santiago},
+Title = {How to effectively sample the plankton size spectrum? A case study using
+   FlowCAM},
+Journal = {Journal of Plankton Research},
+Year = {2011},
+Volume = {33},
+Number = {7},
+Pages = {1119-1133},
+Abstract = {Any technique developed to enumerate plankton must take into account the
+   size structure of the plankton community. Automatic sampling devices
+   must be capable of analysing a minimum number of cells of the largest
+   size to cover the whole size range intended to be sampled effectively.
+   The Flow Cytometer And Microscope (FlowCAM (R)) has been used in the
+   last decade to estimate the size structure of the plankton community.
+   Few attempts, however, have been made to compare FlowCAM measurements
+   with the results provided by traditional microscopy methods for
+   size-structure estimations. FlowCAM can operate in three working modes:
+   autoimage, fluorescence triggered and side-scatter triggered. Autoimage
+   and fluorescence triggered cannot only count accurately a mono-specific
+   suspension of cells, but they are also useful to estimate the size
+   structure of natural samples. The side-scatter-triggered mode is not
+   effective to estimate the size structure of natural samples, although it
+   can count a sparse mono-specific solution accurately. The analysis of
+   natural samples with FlowCAM requires a planned pre-processing of the
+   samples to adjust the density of triggering particles (concentrating or
+   diluting the sample) and to pre-filtrate the sample to avoid cell
+   clumping or obstruction of the flow chamber. The size structure obtained
+   with FlowCAM and with microscopy counts on preserved samples are
+   comparable. Sample preservation, however, alters the size structure of
+   the sample, which suggests that results based on preserved samples must
+   be taken with caution. Automatic sampling devices like FlowCAM could
+   provide a more precise analysis of plankton communities, increasing the
+   resolution of surveys and avoiding the effects of preservation and
+   sample storage.},
+  url = {Alvarez11.pdf}
+}
+
+@article{Sal2011,
+Author = {Sal, S. and Lopez-Urrutia, A.},
+Title = {Temperature, nutrients, and the size-scaling of phytoplankton growth in the sea},
+Journal = {Limnology and Oceanography},
+Year = {2011},
+Volume = {56},
+Number = {5},
+Pages = {1952-1955},
+  url = {Sal2011.pdf}
+}
+
+@article{Rodriguez2011,
+Author = {Rodriguez, J.M. and  Gonzalez-Pola , C. and Lopez-Urrutia, A. and Nogueira, E.},
+Title = {Composition and daytime vertical distribution of the ichthyoplankton assemblage in the Central Cantabrian Sea shelf, during summer: An Eulerian study},
+Journal = {Continental Shelf Research},
+Year = {2011},
+Volume = {31},
+Pages = {1462-1473},
+  url = {Rodriguez2011.pdf}
+}
+
+@article{Acuna2011,
+Author = {Acuna, J.L. and Lopez-Urrutia, A. and Sean, C.},
+Title = {Faking giants: the evolution of high prey clearance rates in jellyfish},
+Journal = {Science},
+Year = {2011},
+Volume = {},
+Pages = {},
+  url = {Acuna2011.pdf}
+}
+
+
+
+@ARTICLE{Benfield2007,
+  author = {Benfield, M. C. and Grosjean, P. and Culverhouse, P. F. and Irigoien,
+	X. and Sieracki, M. E. and Lopez-Urrutia, A. and Dam, H. G. and Hu,
+	Q. and Davis, C. S. and Hansen, A. and Pilskaln, C. H. and Riseman,
+	E. M. and Schultz, H. and Utgoff, P. E. and Gorsky, G.},
+  title = {RAPID Research on Automated Plankton Identification},
+  journal = {Oceanography},
+  year = {2007},
+  volume = {20},
+  pages = {172--187},
+  number = {2},
+  owner = {gelu},
+  sn = {1042-8275},
+  tc = {6},
+  timestamp = {2009.07.28},
+  url = {Benfield07.pdf},
+  ut = {WOS:000261638100028}
+}
+
+@ARTICLE{Bonnet2007,
+  author = {Bonnet, D. and Harris, R. and Lopez-Urrutia, A. and Halsband-Lenk,
+	C. and Greve, W. and Valdes, L. and Hirche, H. J. and Engel, M. and
+	Alvarez-Ossorio, M. T. and Wiltshire, K.},
+  title = {Comparative seasonal dynamics of \textit{Centropages typicus} at
+	seven coastal monitoring stations in the North Sea, English Channel
+	and Bay of Biscay},
+  journal = {Progress In Oceanography},
+  year = {2007},
+  volume = {72},
+  pages = {233--248},
+  number = {2-3},
+  af = {Bonnet, DelphineEOLEOLHarris, RogerEOLEOLLopez-Urrutia, AngelEOLEOLHalsband-Lenk,
+	ClaudiaEOLEOLGreve, WulfEOLEOLValdes, LuisEOLEOLHirche, Hans-JuergenEOLEOLEngel,
+	MarcusEOLEOLAlvarez-Ossorio, Maria TeresaEOLEOLWiltshire, Karen},
+  owner = {gelu},
+  sn = {0079-6611},
+  timestamp = {2008.02.04},
+  url = {Bonnet07.pdf},
+  ut = {ISI:000245531900009}
+}
+
+@ARTICLE{Bonnet2005,
+  author = {Bonnet, D. and Richardson, A. and Harris, R. and Hirst, A. and Beaugrand,
+	G. and Edwards, M. and Ceballos, S. and Diekman, R. and Lopez-Urrutia,
+	A. and Valdes, L. and Carlotti, F. and Molinero, J. C. and Weikert,
+	H. and Greve, W. and Lucic, D. and Albaina, A. and Yahia, N. D. and
+	Umani, S. F. and Miranda, A. and dos Santos, A. and Cook, K. and
+	Robinson, S. and de Puelles, M. L. F.},
+  title = {An overview of \textit{Calanus helgolandicus} ecology in European
+	waters},
+  journal = {Progress In Oceanography},
+  year = {2005},
+  volume = {65},
+  pages = {1--53},
+  number = {1},
+  owner = {gelu},
+  sn = {0079-6611},
+  timestamp = {2008.02.04},
+  url = {Bonnet05.pdf},
+  ut = {ISI:000229847800001}
+}
+
+@ARTICLE{Fernandez2009,
+  author = {Fernandez de Puelles, M. L. and Lopez-Urrutia, A. and Morillas, A.
+	and Molinero, J. C.},
+  title = {Seasonal variability of copepod abundance in the Balearic region
+	(Western Mediterranean) as an indicator of basin scale hydrological
+	changes},
+  journal = {Hydrobiologia},
+  year = {2009},
+  volume = {617},
+  pages = {3--16},
+  abstract = {Spatial and temporal changes of the copepod community have been investigated
+	and related to the environmental variability of the Balearic Sea
+	(Western Mediterranean). The period studied spans from 1994 to 1999
+	during which we analyzed the abundance and structure copepod variability
+	over a cross-shore transect. Results showed a close link between
+	hydrological changes and the variations of copepod abundance. The
+	synchronous variability of copepods and hydrography indicated the
+	rapid response of this zooplankton group to the inflow of cold and
+	warm water masses coming through the study area. Cluster analysis
+	revealed four main copepod assemblages that distinguished the coastal
+	from the oceanic species and those species with different water masses
+	preference. The copepod assemblage composed of Calanus helgolandicus,
+	Clausocalanus arcuicornis, C. pergens, C. paululus, Calocalanus tenuis
+	and Pleuromamma gracilis was associated with cool salty waters, whereas
+	the assemblage formed by Temora stylifera, C. pavo, C. styliremis,
+	Centropages bradyi and Acartia danae was related to warmer less saline
+	Mediterranean waters. Moreover, it is suggested that changes in sea
+	water temperature and salinity are linked to large-scale changes
+	likely occurring at a basin scale, which is reflected in the Western
+	Mediterranean mesoscale hydrographic changes. Therefore, it is stressed
+	that changes in the Balearic copepod community can be used as potential
+	tracers of the western Mediterranean water masses. },
+  cl = {Hammamet, TUNISIA},
+  ct = {9th International Conference on Copepoda},
+  cy = {JUL 11-15, 2005},
+  di = {10.1007/s10750-008-9522-x},
+  owner = {gelu},
+  sn = {0018-8158},
+  tc = {0},
+  timestamp = {2009.07.28},
+  ut = {WOS:000261750800002}
+}
+
+@ARTICLE{Fernandez2004,
+  author = {Fernandez, D. and Lopez-Urrutia, A. and Fernandez, A. and Acuna,
+	J. L. and Harris, R.},
+  title = {Retention efficiency of 0.2 to 6 um particles by the appendicularians
+	\textit{Oikopleura dioica} and \textit{Fritillaria borealis}},
+  journal = {Marine Ecology-Progress Series},
+  year = {2004},
+  volume = {266},
+  pages = {89--101},
+  owner = {gelu},
+  sn = {0171-8630},
+  timestamp = {2008.02.04},
+  url = {Fernandez04.pdf},
+  ut = {ISI:000220134500009}
+}
+
+@ARTICLE{Hirst2006,
+  author = {Hirst, A. and Lopez-Urrutia, A.},
+  title = {Effects of evolution on egg development time},
+  journal = {Marine Ecology-Progress Series},
+  year = {2006},
+  volume = {326},
+  pages = {29--35},
+  af = {Hirst, AndrewEOLEOLLopez-Urrutia, Angel},
+  owner = {gelu},
+  sn = {0171-8630},
+  timestamp = {2008.02.04},
+  url = {HirstLopezUrrutia06.pdf},
+  ut = {ISI:000243104300003}
+}
+
+@ARTICLE{Lopez-Urrutia2008,
+  author = {Lopez-Urrutia, A.},
+  title = {The metabolic theory of ecology and algal bloom formation},
+  journal = {Limnology And Oceanography},
+  year = {2008},
+  volume = {53(5)},
+  pages = {2046-2047},
+  owner = {gelu},
+  timestamp = {2008.02.04},
+  url = {LopezUrrutia08.pdf}
+}
+
+@ARTICLE{Lopez-Urrutia2003,
+  author = {Lopez-Urrutia, A.},
+  title = {Allometry: How reliable is the biological time clock?},
+  journal = {Nature},
+  year = {2003},
+  volume = {424},
+  pages = {269--270},
+  number = {6946},
+  month = jul,
+  owner = {gelu},
+  sn = {0028-0836},
+  timestamp = {2008.02.04},
+  url = {LopezUrrutia03c.pdf},
+  ut = {ISI:000184183900029}
+}
+
+@ARTICLE{Lopez-Urrutia1999,
+  author = {Lopez-Urrutia, A. and Acuna, J. L.},
+  title = {Gut throughput dynamics in the appendicularian \textit{Oikopleura
+	dioica}},
+  journal = {Marine Ecology-Progress Series},
+  year = {1999},
+  volume = {191},
+  pages = {195--205},
+  owner = {gelu},
+  sn = {0171-8630},
+  timestamp = {2008.02.04},
+  url = {LopezUrrutiaAcuna99.pdf},
+  ut = {ISI:000085094900018}
+}
+
+@ARTICLE{Lopez-Urrutia2003b,
+  author = {Lopez-Urrutia, A. and Acuna, J. L. and Irigoien, X. and Harris, R.},
+  title = {Food limitation and growth in temperate epipelagic appendicularians
+	(Tunicata)},
+  journal = {Marine Ecology-Progress Series},
+  year = {2003},
+  volume = {252},
+  pages = {143--157},
+  owner = {gelu},
+  sn = {0171-8630},
+  timestamp = {2008.02.04},
+  url = {LopezUrrutia03b.pdf},
+  ut = {ISI:000183325800011}
+}
+
+@INCOLLECTION{Lopez-Urrutia2005,
+  author = {Lopez-Urrutia, A. and Harris, R. and Acuna, J.L. and Baamstedt, U.
+	and Fyhn, H.-J. and Flood, P. and Gasser, B. and Gorsky, G. andIrigoien,
+	X. and Martinussen, M.},
+  title = {A comparison of appendicularian seasonal cycles in four contrasting
+	European coastal environments},
+  booktitle = {Response of marine ecosystems to global change: Ecological impact
+	of appendicularians},
+  publisher = {Contemporary Publishing International, Aditions Scientifiques GB},
+  year = {2005},
+  editor = {Gorsky, G. and Youngbluth, M.},
+  pages = {255--276},
+  comment = {ISBN 2847030298},
+  groupsearch = {0},
+  owner = {Angel},
+  timestamp = {2008.02.04},
+  url = {LopezUrrutia05.pdf}
+}
+
+@ARTICLE{Lopez-Urrutia2004,
+  author = {Lopez-Urrutia, A. and Harris, R. P. and Smith, T.},
+  title = {Predation by calanoid copepods on the appendicularian \textit{Oikopleura
+	dioica}},
+  journal = {Limnology And Oceanography},
+  year = {2004},
+  volume = {49},
+  pages = {303--307},
+  number = {1},
+  month = jan,
+  owner = {gelu},
+  sn = {0024-3590},
+  timestamp = {2008.02.04},
+  url = {LopezUrrutia04.pdf},
+  ut = {ISI:000188381100032}
+}
+
+@ARTICLE{Lopez-Urrutia2003a,
+  author = {Lopez-Urrutia, A. and Irigoien, X. and Acuna, J. L. and Harris, R.},
+  title = {In situ feeding physiology and grazing impact of the appendicularian
+	community in temperate waters},
+  journal = {Marine Ecology-Progress Series},
+  year = {2003},
+  volume = {252},
+  pages = {125--141},
+  owner = {gelu},
+  sn = {0171-8630},
+  timestamp = {2008.02.04},
+  url = {LopezUrrutia03a.pdf},
+  ut = {ISI:000183325800010}
+}
+
+@ARTICLE{Lopez-Urrutia2007,
+  author = {Lopez-Urrutia, A. and Moran, X. A. G.},
+  title = {Resource limitation of bacterial production distorts the temperature
+	dependence of oceanic carbon cycling},
+  journal = {Ecology},
+  year = {2007},
+  volume = {88},
+  pages = {817--822},
+  number = {4},
+  month = apr,
+  af = {Lopez-Urrutia, AngelEOLEOLMoran, Xose Anxelu G.},
+  doi = {LopezUrrutiaMoran07SI.pdf},
+  owner = {gelu},
+  sn = {0012-9658},
+  timestamp = {2008.02.04},
+  url = {LopezUrrutiaMoran07.pdf},
+  ut = {ISI:000246104600002}
+}
+
+@ARTICLE{Lopez-Urrutia2006,
+  author = {Lopez-Urrutia, A. and San Martin, E. and Harris, R. P. and Irigoien,
+	X.},
+  title = {Scaling the metabolic balance of the oceans},
+  journal = {Proceedings Of The National Academy Of Sciences Of The United States
+	Of America},
+  year = {2006},
+  volume = {103},
+  pages = {8739--8744},
+  number = {23},
+  month = jun,
+  doi = {LopezUrrutia06Suppl.pdf},
+  owner = {gelu},
+  sn = {0027-8424},
+  timestamp = {2008.02.04},
+  url = {LopezUrrutia06.pdf},
+  ut = {ISI:000238278400030}
+}
+
+@ARTICLE{Martin2006,
+  author = {Martin, E. S. and Irigoien, X. and Harris, R. P. and Lopez-Urrutia,
+	A. and Zubkov, M. V. and Heywood, J. L.},
+  title = {Variation in the transfer of energy in marine plankton along a productivity
+	gradient in the Atlantic Ocean},
+  journal = {Limnology And Oceanography},
+  year = {2006},
+  volume = {51},
+  pages = {2084--2091},
+  number = {5},
+  month = sep,
+  af = {Martin, Elena SanEOLEOLIrigoien, XabierEOLEOLHarris, Roger P.EOLEOLLopez-Urrutia,
+	AngelEOLEOLZubkov, Mikhail V.EOLEOLHeywood, Jane L.},
+  owner = {gelu},
+  sn = {0024-3590},
+  timestamp = {2008.02.04},
+  url = {SanMartin06.pdf},
+  ut = {ISI:000240673800013}
+}
+
+@ARTICLE{Moran2009,
+  author = {Moran, X. A. G. and Lopez-Urrutia, A. and Calvo-Diaz, A. and Li W.
+	K. W.},
+  title = {Increasing importance of small phytoplankton in a warmer ocean},
+  journal = {Global Change Biology},
+  year = {2009},
+  pages = {10.1111/j.1365-2486.2009.01960.x},
+  doi = {Moran09SI.pdf},
+  owner = {gelu},
+  timestamp = {2009.07.28},
+  url = {Moran09.pdf}
+}
+
+@ARTICLE{Valdes2007,
+  author = {Valdes, L. and Lopez-Urrutia, A. and Cabal, J. and Alvarez-Ossorio,
+	M. and Bode, A. and Miranda, A. and Cabanas, M. and Huskin, I. and
+	Anadon, R. and Alvarez-Marques, F. and Llope, M. and Rodriguez, N.},
+  title = {A decade of sampling in the Bay of Biscay: What are the zooplankton
+	time series telling us?},
+  journal = {Progress In Oceanography},
+  year = {2007},
+  volume = {74},
+  pages = {98--114},
+  number = {2-3},
+  af = {Valdes, LuisEOLEOLLopez-Urrutia, A.EOLEOLCabal, J.EOLEOLAlvarez-Ossorio,
+	M.EOLEOLBode, A.EOLEOLMiranda, A.EOLEOLCabanas, M.EOLEOLHuskin, I.EOLEOLAnadon,
+	R.EOLEOLAlvarez-Marques, F.EOLEOLLlope, M.EOLEOLRodriguez, N.},
+  owner = {gelu},
+  sn = {0079-6611},
+  timestamp = {2008.02.04},
+  url = {Valdes08.pdf},
+  ut = {ISI:000249064000002}
+}
+
+@ARTICLE{Varela2006,
+  author = {Varela, M. and Bode, A. and Lorenzo, J. and Alvarez-Ossorio, M. T.
+	and Miranda, A. and Patrocinio, T. and Anadon, R. and Viesca, L.
+	and Rodriguez, N. and Valdes, L. and Cabal, J. and Lopez-Urrutia,
+	A. and Garcia-Soto, C. and Rodriguez, M. and Alvarez-Salgado, X.
+	A. and Groom, S.},
+  title = {The effect of the "Prestige" oil spill on the plankton of the N-NW
+	Spanish coast},
+  journal = {Marine Pollution Bulletin},
+  year = {2006},
+  volume = {53},
+  pages = {272--286},
+  number = {5-7},
+  af = {Varela, ManuelEOLEOLBode, AntonioEOLEOLLorenzo, JorgeEOLEOLAlvarez-Ossorio,
+	M. TeresaEOLEOLMiranda, AnaEOLEOLPatrocinio, TeodoroEOLEOLAnadon,
+	RicardoEOLEOLViesca, LeticiaEOLEOLRodriguez, NievesEOLEOLValdes,
+	LuisEOLEOLCabal, JesusEOLEOLUrrutia, AngelEOLEOLGarcia-Soto, CarlosEOLEOLRodriguez,
+	MenchuEOLEOLAlvarez-Salgado, Xose AntonEOLEOLGroom, Steve},
+  owner = {gelu},
+  sn = {0025-326X},
+  timestamp = {2008.02.04},
+  url = {Varela06.pdf},
+  ut = {ISI:000238860000007}
+}
+
+@ARTICLE{Zubkov2003,
+  author = {Zubkov, M. V. and Lopez-Urrutia, A.},
+  title = {Effect of appendicularians and copepods on bacterioplankton composition
+	and growth in the English Channel},
+  journal = {Aquatic Microbial Ecology},
+  year = {2003},
+  volume = {32},
+  pages = {39--46},
+  number = {1},
+  month = may,
+  owner = {gelu},
+  sn = {0948-3055},
+  timestamp = {2008.02.04},
+  url = {ZubkovLopezUrrutia03.pdf},
+  ut = {ISI:000183076300004}
+}
+

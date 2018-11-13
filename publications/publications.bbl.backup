@@ -1,0 +1,270 @@
+\begin{thebibliography}{10}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+\providecommand{\bibAnnoteFile}[1]{%
+  \IfFileExists{#1}{\begin{quotation}\noindent\textsc{Key:} #1\\
+  \textsc{Annotation:}\ \input{#1}\end{quotation}}{}}
+\providecommand{\bibAnnote}[2]{%
+  \begin{quotation}\noindent\textsc{Key:} #1\\
+  \textsc{Annotation:}\ #2\end{quotation}}
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem{Alvarez2017}
+Alvarez E, Nogueira E, Lopez-Urrutia A (2017) In Vivo Single-Cell Fluorescence
+  and Size Scaling of Phytoplankton Chlorophyll Content.
+\newblock Applied and environmental microbiology 83, \url{Alvarez2017.pdf}.
+
+\bibitem{Gonzalez2017}
+Gonzalez P, Alvarez E, Diez J, Lopez-Urrutia A, del Coz JJ (2017) Validation
+  methods for plankton image classification systems.
+\newblock Limnology and oceanography-methods 15:221--237,
+  \url{Gonzalez2017.pdf}.
+
+\bibitem{Alvarez2016}
+Alvarez E, Moran XAG, Lopez-Urrutia A, Nogueira E (2016) Size-dependent
+  photoacclimation of the phytoplankton community in temperate shelf waters
+  (southern Bay of Biscay).
+\newblock Marine ecology progress series 543:73--87, \url{Alvarez2016.pdf}.
+
+\bibitem{Garcia2016}
+Garcia FC, Elena Garcia-Martin E, Gonzalez~Taboada F, Sal S, Serret P,
+  Lopez-Urrutia A (2016) The allometry of the smallest: superlinear scaling of
+  microbial metabolic rates in the Atlantic Ocean.
+\newblock ISME Journal 10:1029--1036, \url{Garcia2016.pdf}.
+
+\bibitem{Moran2015}
+Moran XAG, Alonso-Saez L, Nogueira E, Ducklow HW, Gonzalez N, Lopez-Urrutia A,
+  Diaz-Perez L, Calvo-Diaz A, Arandia-Gorostidi N, Huete-Stauffer TM (2015)
+  More, smaller bacteria in response to ocean's warming?
+\newblock Proceedings of the Royal Society B-Biological Sciences 282,
+  \url{Moran2015.pdf}.
+
+\bibitem{Garcia2015}
+Garcia FC, Alonso-Saez L, Moran XAG, Lopez-Urrutia A (2015) Seasonality in
+  molecular and cytometric diversity of marine bacterioplankton: the
+  re-shuffling of bacterial taxa by vertical mixing.
+\newblock Environmental microbiology 17:4133--4142, \url{Garcia2015.pdf}.
+
+\bibitem{Sal2015}
+Sal S, Alonso-Saez L, Bueno J, Garcia FC, Lopez-Urrutia A (2015) Thermal
+  adaptation, phylogeny, and the unimodal size scaling of marine phytoplankton
+  growth.
+\newblock Limnology and oceanography 60:1212--1221, \url{Sal2015.pdf}.
+
+\bibitem{LopezUrrutia2015}
+Lopez-Urrutia A, Moran XAG (2015) Temperature affects the size-structure of
+  phytoplankton communities in the ocean.
+\newblock Limnology and oceanography 60:733--738, \url{LopezUrrutia2015.pdf}.
+
+\bibitem{Regaudie2015}
+Regaudie-de Gioux A, Sal S, Lopez-Urrutia A (2015) Poor correlation between
+  phytoplankton community growth rates and nutrient concentration in the sea.
+\newblock Biogeosciences 12:1915--1923, \url{Regaudie2015.pdf}.
+
+\bibitem{Vandromme2014}
+Vandromme P, Nogueira E, Huret M, Lopez-Urrutia A, Gonzalez-Nuevo~Gonzalez G,
+  Sourisseau M, Petitgas P (2014) Springtime zooplankton size structure over
+  the continental shelf of the Bay of Biscay.
+\newblock Ocean Science 10:821--835, \url{Vandromme2014.pdf}.
+
+\bibitem{Garcia2014a}
+Garcia FC, Lopez-Urrutia A, Moran XAG (2014) Automated clustering of
+  heterotrophic bacterioplankton in flow cytometry data.
+\newblock Aquatic microbial ecology 72:175--185, \url{Garcia2014a.pdf}.
+
+\bibitem{Alvarez2014a}
+Alvarez E, Moyano M, Lopez-Urrutia A, Nogueira E, Scharek R (2014) Routine
+  determination of plankton community composition and size structure: a
+  comparison between FlowCAM and light microscopy.
+\newblock Journal of plankton research 36:170--184, \url{Alvarez2014a.pdf}.
+
+\bibitem{Gonzalez2013}
+Gonzalez P, Alvarez E, Barranquero J, Diez J, Gonzalez-Quiros R, Nogueira E,
+  Lopez-Urrutia A, Jose~del Coz J (2013) Multiclass Support Vector Machines
+  With Example-Dependent Costs Applied to Plankton Biomass Estimation.
+\newblock IEEE Transactions on neural networks and learning systems
+  24:1901--1905, \url{Gonzalez2013.pdf}.
+
+\bibitem{Garcia2013a}
+Garcia-Munoz C, Lopez-Urrutia A, Lubian LM, Garcia CM, Hernandez-Leon S (2013)
+  A comparison of primary production models in an area of high mesoscale
+  variability (South Shetland Islands, Antarctica).
+\newblock Journal of sea research 83:30--39, \url{Garcia2013a.pdf}.
+
+\bibitem{Vazquez2013}
+Vazquez-Dominguez E, Moran XAG, Lopez-Urrutia A (2013) Photoacclimation of
+  picophytoplankton in the central Cantabrian Sea.
+\newblock Marine ecology progress series 493:43--56, \url{Vazquez2013.pdf}.
+
+\bibitem{Bueno2012}
+Bueno J, Lopez-Urrutia A (2012) The Offspring-Development-Time/Offspring-Number
+  Trade-Off.
+\newblock American naturalist 179:E196--E203, \url{Bueno2012.pdf}.
+
+\bibitem{Alvarez2012a}
+Alvarez E, Lopez-Urrutia A, Nogueira E (2012) Improvement of plankton biovolume
+  estimates derived from image-based automatic sampling devices: application to
+  FlowCAM.
+\newblock Journal of plankton research 34:454--469, \url{Alvarez2012a.pdf}.
+
+\bibitem{Bode2012}
+Bode A, Alvarez-Ossorio MT, Miranda A, Lopez-Urrutia A, Valdes L (2012)
+  Comparing copepod time-series in the north of Spain: Spatial autocorrelation
+  of community composition.
+\newblock Progress in oceanography 97:108--119, \url{Bode2012.pdf}.
+
+\bibitem{Acuna2011b}
+Acuna JL, Lopez-Urrutia A, Colin S (2011) Primitive Ladder-of-Life Thinking Has
+  Evolved Response.
+\newblock Science 334:1347--1348, \url{Acuna2011b.pdf}.
+
+\bibitem{Acuna2011}
+Acuna J, Lopez-Urrutia A, Sean C (2011) Faking giants: the evolution of high
+  prey clearance rates in jellyfish.
+\newblock Science \url{Acuna2011.pdf}.
+
+\bibitem{Sal2011}
+Sal S, Lopez-Urrutia A (2011) Temperature, nutrients, and the size-scaling of
+  phytoplankton growth in the sea.
+\newblock Limnology and Oceanography 56:1952--1955, \url{Sal2011.pdf}.
+
+\bibitem{Rodriguez2011}
+Rodriguez J, Gonzalez-Pola C, Lopez-Urrutia A, Nogueira E (2011) Composition
+  and daytime vertical distribution of the ichthyoplankton assemblage in the
+  Central Cantabrian Sea shelf, during summer: An Eulerian study.
+\newblock Continental Shelf Research 31:1462--1473, \url{Rodriguez2011.pdf}.
+
+\bibitem{Alvarez2011}
+Alvarez E, Lopez-Urrutia A, Nogueira E, Fraga S (2011) How to effectively
+  sample the plankton size spectrum? A case study using FlowCAM.
+\newblock Journal of Plankton Research 33:1119--1133, \url{Alvarez11.pdf}.
+
+\bibitem{Moran2009}
+Moran XAG, Lopez-Urrutia A, Calvo-Diaz A, W LWK (2009) Increasing importance of
+  small phytoplankton in a warmer ocean.
+\newblock Global Change Biology
+  :10.1111/j.1365--2486.2009.01960.x\url{Moran09.pdf}.
+
+\bibitem{Fernandez2009}
+Fernandez~de Puelles ML, Lopez-Urrutia A, Morillas A, Molinero JC (2009)
+  Seasonal variability of copepod abundance in the Balearic region (Western
+  Mediterranean) as an indicator of basin scale hydrological changes.
+\newblock Hydrobiologia 617:3--16.
+
+\bibitem{Lopez-Urrutia2008}
+Lopez-Urrutia A (2008) The metabolic theory of ecology and algal bloom
+  formation.
+\newblock Limnology And Oceanography 53(5):2046--2047,
+  \url{LopezUrrutia08.pdf}.
+
+\bibitem{Benfield2007}
+Benfield MC, Grosjean P, Culverhouse PF, Irigoien X, Sieracki ME, Lopez-Urrutia
+  A, Dam HG, Hu Q, Davis CS, Hansen A, Pilskaln CH, Riseman EM, Schultz H,
+  Utgoff PE, Gorsky G (2007) RAPID Research on Automated Plankton
+  Identification.
+\newblock Oceanography 20:172--187, \url{Benfield07.pdf}.
+
+\bibitem{Valdes2007}
+Valdes L, Lopez-Urrutia A, Cabal J, Alvarez-Ossorio M, Bode A, Miranda A,
+  Cabanas M, Huskin I, Anadon R, Alvarez-Marques F, Llope M, Rodriguez N (2007)
+  A decade of sampling in the Bay of Biscay: What are the zooplankton time
+  series telling us?
+\newblock Progress In Oceanography 74:98--114, \url{Valdes08.pdf}.
+
+\bibitem{Lopez-Urrutia2007}
+Lopez-Urrutia A, Moran XAG (2007) Resource limitation of bacterial production
+  distorts the temperature dependence of oceanic carbon cycling.
+\newblock Ecology 88:817--822, \url{LopezUrrutiaMoran07.pdf}.
+
+\bibitem{Bonnet2007}
+Bonnet D, Harris R, Lopez-Urrutia A, Halsband-Lenk C, Greve W, Valdes L, Hirche
+  HJ, Engel M, Alvarez-Ossorio MT, Wiltshire K (2007) Comparative seasonal
+  dynamics of \textit{Centropages typicus} at seven coastal monitoring stations
+  in the North Sea, English Channel and Bay of Biscay.
+\newblock Progress In Oceanography 72:233--248, \url{Bonnet07.pdf}.
+
+\bibitem{Hirst2006}
+Hirst A, Lopez-Urrutia A (2006) Effects of evolution on egg development time.
+\newblock Marine Ecology-Progress Series 326:29--35,
+  \url{HirstLopezUrrutia06.pdf}.
+
+\bibitem{Martin2006}
+Martin ES, Irigoien X, Harris RP, Lopez-Urrutia A, Zubkov MV, Heywood JL (2006)
+  Variation in the transfer of energy in marine plankton along a productivity
+  gradient in the Atlantic Ocean.
+\newblock Limnology And Oceanography 51:2084--2091, \url{SanMartin06.pdf}.
+
+\bibitem{Varela2006}
+Varela M, Bode A, Lorenzo J, Alvarez-Ossorio MT, Miranda A, Patrocinio T,
+  Anadon R, Viesca L, Rodriguez N, Valdes L, Cabal J, Lopez-Urrutia A,
+  Garcia-Soto C, Rodriguez M, Alvarez-Salgado XA, Groom S (2006) The effect of
+  the "Prestige" oil spill on the plankton of the N-NW Spanish coast.
+\newblock Marine Pollution Bulletin 53:272--286, \url{Varela06.pdf}.
+
+\bibitem{Lopez-Urrutia2006}
+Lopez-Urrutia A, San~Martin E, Harris RP, Irigoien X (2006) Scaling the
+  metabolic balance of the oceans.
+\newblock Proceedings Of The National Academy Of Sciences Of The United States
+  Of America 103:8739--8744, \url{LopezUrrutia06.pdf}.
+
+\bibitem{Bonnet2005}
+Bonnet D, Richardson A, Harris R, Hirst A, Beaugrand G, Edwards M, Ceballos S,
+  Diekman R, Lopez-Urrutia A, Valdes L, Carlotti F, Molinero JC, Weikert H,
+  Greve W, Lucic D, Albaina A, Yahia ND, Umani SF, Miranda A, dos Santos A,
+  Cook K, Robinson S, de~Puelles MLF (2005) An overview of \textit{Calanus
+  helgolandicus} ecology in European waters.
+\newblock Progress In Oceanography 65:1--53, \url{Bonnet05.pdf}.
+
+\bibitem{Lopez-Urrutia2005}
+Lopez-Urrutia A, Harris R, Acuna J, Baamstedt U, Fyhn HJ, Flood P, Gasser B,
+  Gorsky X G~andIrigoien, Martinussen M (2005) A comparison of appendicularian
+  seasonal cycles in four contrasting European coastal environments.
+\newblock In: Gorsky G, Youngbluth M, editors, Response of marine ecosystems to
+  global change: Ecological impact of appendicularians, Contemporary Publishing
+  International, Aditions Scientifiques GB. pp. 255--276.
+\newblock \url{LopezUrrutia05.pdf}.
+
+\bibitem{Fernandez2004}
+Fernandez D, Lopez-Urrutia A, Fernandez A, Acuna JL, Harris R (2004) Retention
+  efficiency of 0.2 to 6 um particles by the appendicularians
+  \textit{Oikopleura dioica} and \textit{Fritillaria borealis}.
+\newblock Marine Ecology-Progress Series 266:89--101, \url{Fernandez04.pdf}.
+
+\bibitem{Lopez-Urrutia2004}
+Lopez-Urrutia A, Harris RP, Smith T (2004) Predation by calanoid copepods on
+  the appendicularian \textit{Oikopleura dioica}.
+\newblock Limnology And Oceanography 49:303--307, \url{LopezUrrutia04.pdf}.
+
+\bibitem{Lopez-Urrutia2003}
+Lopez-Urrutia A (2003) Allometry: How reliable is the biological time clock?
+\newblock Nature 424:269--270, \url{LopezUrrutia03c.pdf}.
+
+\bibitem{Lopez-Urrutia2003a}
+Lopez-Urrutia A, Irigoien X, Acuna JL, Harris R (2003) In situ feeding
+  physiology and grazing impact of the appendicularian community in temperate
+  waters.
+\newblock Marine Ecology-Progress Series 252:125--141,
+  \url{LopezUrrutia03a.pdf}.
+
+\bibitem{Lopez-Urrutia2003b}
+Lopez-Urrutia A, Acuna JL, Irigoien X, Harris R (2003) Food limitation and
+  growth in temperate epipelagic appendicularians (Tunicata).
+\newblock Marine Ecology-Progress Series 252:143--157,
+  \url{LopezUrrutia03b.pdf}.
+
+\bibitem{Zubkov2003}
+Zubkov MV, Lopez-Urrutia A (2003) Effect of appendicularians and copepods on
+  bacterioplankton composition and growth in the English Channel.
+\newblock Aquatic Microbial Ecology 32:39--46, \url{ZubkovLopezUrrutia03.pdf}.
+
+\bibitem{Lopez-Urrutia1999}
+Lopez-Urrutia A, Acuna JL (1999) Gut throughput dynamics in the appendicularian
+  \textit{Oikopleura dioica}.
+\newblock Marine Ecology-Progress Series 191:195--205,
+  \url{LopezUrrutiaAcuna99.pdf}.
+
+\end{thebibliography}

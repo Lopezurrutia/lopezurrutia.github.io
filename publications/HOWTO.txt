@@ -1,0 +1,10 @@
+HOWTO MAKE PUBLICATION LIST
+-In CV.bib list all your publications
+-Cite them in publications.tex list
+-Do a latex and bibtex
+latex publications.tex && bibtex publications && latex publications.tex
+-With replaceISI.sh add accents and special characters, underline your name, etc
+./replaceISI.sh publications.bbl
+-Copy the bibitems in the new publications.bbl into the CV.tex file
+- run latex2html CV.tex
+- in the CV folder, node1.html contains the html code for the publications, copy and paste them to a file in the _includes folder called listpubs.html
