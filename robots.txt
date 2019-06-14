@@ -1,0 +1,12 @@
+User-agent: * 
+Disallow: /publications/CV/
+Disallow: /publications/*.tex
+Disallow: /publications/*.html
+Disallow: /publications/*.bib
+Disallow: /publications/*.aux
+Disallow: /publications/*.bbl
+Disallow: /publications/*.dvi
+Disallow: /publications/*.sh
+Disallow: /publications/*.bst
+Disallow: /publications/*.bst*
+Sitemap: https://lopezurrutia.github.io/sitemap.xml
