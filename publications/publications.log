@@ -1,9 +1,12 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=latex 2018.10.15)  13 NOV 2018 21:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=latex 2018.11.12)  14 JUN 2019 09:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**\nonstopmode\input publications.tex
-(./publications.tex (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+**publications.tex
+(./publications.tex
+LaTeX2e <2017-04-15>
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
 File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
@@ -42,9 +45,7 @@ Type  H <return>  for immediate help.
                                                   
 l.90 ...mand\NAT@force@numbers{}\NAT@force@numbers
                                                   
-Check the bibliography entries for non-compliant syntax,
-or select author-year BibTeX style, e.g. plainnat
-
+? 
 )
 \openout1 = `publications.aux'.
 
@@ -73,22 +74,30 @@ Overfull \hbox (393.11331pt too wide) in paragraph at lines 17--29
 (./publications.bbl
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 17.
 LaTeX Font Info:    Try loading font information for OT1+pcr on input line 19.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
 [1
 
-] [2] [3]
-Underfull \hbox (badness 1231) in paragraph at lines 238--241
-[]\OT1/ptm/m/n/12 Lopez-Urrutia A, Har-ris RP, Smith T (2004) Pre-da-tion by ca
-lanoid cope-pods on
+]
+Underfull \hbox (badness 2073) in paragraph at lines 131--134
+[]\OT1/ptm/m/n/12 Sal S, \OT1/ptm/b/n/12 L[]opez-Urrutia []A \OT1/ptm/m/n/12 (2
+011) Tem-per-a-ture, nu-tri-ents, and the size-scaling of
  []
 
 
-Underfull \hbox (badness 5985) in paragraph at lines 265--269
-[]\OT1/ptm/m/n/12 Lopez-Urrutia A, Acuna JL (1999) Gut through-put dy-nam-ics i
-n the ap-pen-
+Underfull \hbox (badness 1552) in paragraph at lines 131--134
+\OT1/ptm/m/n/12 phy-to-plank-ton growth in the sea.  Lim-nol-ogy and Oceanog-ra
+-phy 56:1952--1955,
+ []
+
+[2] [3]
+Underfull \hbox (badness 4582) in paragraph at lines 265--269
+[]\OT1/ptm/b/n/12 L[]opez-Urrutia []A\OT1/ptm/m/n/12 , Acu[]na JL (1999) Gut th
+rough-put dy-nam-ics in the ap-pen-
  []
 
 
@@ -97,14 +106,14 @@ Underfull \hbox (badness 6396) in paragraph at lines 265--269
 2 .  Ma-rine Ecology-Progress Se-ries 191:195--205,
  []
 
-) [4] (./publications.aux) ) 
+[4]) [5] (./publications.aux) ) 
 Here is how much of TeX's memory you used:
- 758 strings out of 492983
- 10099 string characters out of 6134921
- 63303 words of memory out of 5000000
- 4389 multiletter control sequences out of 15000+600000
- 6235 words of font info for 20 fonts, out of 8000000 for 9000
+ 764 strings out of 492983
+ 10160 string characters out of 6134921
+ 64300 words of memory out of 5000000
+ 4395 multiletter control sequences out of 15000+600000
+ 6754 words of font info for 21 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 22i,4n,20p,679b,345s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 22i,4n,20p,660b,384s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on publications.dvi (4 pages, 13724 bytes).
+Output written on publications.dvi (5 pages, 15040 bytes).

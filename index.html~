@@ -1,51 +1,28 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!DOCTYPE html>
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta content="en-us" http-equiv="Content-Language">
+	<title>Angel Lopez-Urrutia</title>
+</head>
+<body leftmargin="40" bgcolor="#FFFFFF" link="#444444" text="#444444">
+<div>
+  <p align="center"><img border="0" alt="Angel Lopez-Urrutia" style="float:left;margin: 10px;height:200px;" src="assets/lopez.jpg"></p>
+  <font face="Arial" size="5">Angel Lopez-Urrutia</b></font>
+<p><font face="Arial" style="font-size: 11pt;">
+    Research Scientist<br>
+    Spanish Institute of Oceanography, IEO, Gijon, Spain <br>
+    lopezurrutia@gmail.com</font></p>
+<hr>
+<p style="margin-top: 3px; margin-bottom: 3px;"><font face="Arial" style="font-size: 12pt;">
+I am a Senior Scientist at the Spanish Institute of Oceanography, a governmental research institution. I am based at the lab in Gijon (Centro Oceanografico de Gijon, Asturias). I am a marine ecologist, my work uses marine plankton as models to test ecological theories. I apply data mining, mathematical theory and macroecological techniques in an attempt to understand the structure of nature. My research interests are quite broad, from physiological rates at the celullar level to community rates and biogeochemical cycles.<br>
+</p>
+<p style="margin-top: 3px; margin-bottom: 3px;"><font face="Arial" style="font-size: 12pt;">
+I am a biologist but most of my work deals with data analysis and model development. My latest interest is on the development of imaging systems and software for the automatic classification of plankton using deep learning techniques. I believe that machine learning can make a difference in the scientific community by automating repetitive tasks so researchers can focus on more impactful work.
+</p>
+</div>
 
-<!--Converted with LaTeX2HTML 2018 (Released Feb 1, 2018) -->
-<HTML>
-<HEAD>
-<TITLE>Bibliography</TITLE>
-<META NAME="description" CONTENT="Bibliography">
-<META NAME="keywords" CONTENT="CV">
-<META NAME="resource-type" CONTENT="document">
-<META NAME="distribution" CONTENT="global">
+<p><b><font face="Arial" size="4">Publications</font></b></p>
+<p><span class="style8"><strong><font face="Arial"><a href="https://scholar.google.es/citations?user=Tida57sAAAAJ&hl=en"><font color="#808080">Google Scholar Profile</font></a><br></font></strong></span></p>
 
-<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-15">
-<META NAME="Generator" CONTENT="LaTeX2HTML v2018">
-<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
-
-<LINK REL="STYLESHEET" HREF="CV.css">
-
-<LINK REL="next" HREF="node2.html">
-<LINK REL="previous" HREF="CV.html">
-<LINK REL="up" HREF="CV.html">
-<LINK REL="next" HREF="node2.html">
-</HEAD>
-
-<BODY >
-
-<DIV CLASS="navigation"><!--Navigation Panel-->
-<A NAME="tex2html56"
-  HREF="node2.html">
-<IMG WIDTH="37" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="next" SRC="next.png"></A> 
-<A NAME="tex2html54"
-  HREF="CV.html">
-<IMG WIDTH="26" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="up" SRC="up.png"></A> 
-<A NAME="tex2html48"
-  HREF="CV.html">
-<IMG WIDTH="63" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="previous" SRC="prev.png"></A>   
-<BR>
-<B> Next:</B> <A NAME="tex2html57"
-  HREF="node2.html">About this document ...</A>
-<B> Up:</B> <A NAME="tex2html55"
-  HREF="CV.html">CV</A>
-<B> Previous:</B> <A NAME="tex2html49"
-  HREF="CV.html">CV</A>
-<BR><BR></DIV>
-<!--End of Navigation Panel-->
- </SMALL>
-<H2><A NAME="SECTION00010000000000000000">
-Bibliography</A>
-</H2><DL COMPACT><DD>
 <P>
 <P></P><DT><A NAME="Alvarez2017">1</A>
 <DD>
@@ -428,69 +405,5 @@ Zubkov MV, <SPAN  CLASS="textbf">L&#243;pez-Urrutia &#193;</SPAN> (2003) Effect 
   <TT><A NAME="tex2html42"
   HREF="LopezUrrutiaAcuna99.pdf">LopezUrrutiaAcuna99.pdf</A></TT>.
 
-<P>
-</DL>
-<P>
-<SMALL CLASS="SMALL"> <SPAN  CLASS="textbf"><BIG CLASS="XLARGE">Grants and Fellowships</BIG></SPAN> <BR> <BR>
-<SPAN ID="txt257">MICINN, Spanish Ministry of Science</SPAN> <SPAN  CLASS="textit">The Malaspina Expedition 2010: Global Change and Exploration of Global Ocean Biodiversity</SPAN>. (2010-) 594.327 (all IEO)
-<BR></SMALL>
-<P>
-<SMALL CLASS="SMALL"><SPAN ID="txt259">MICINN, Spanish Ministry of Science</SPAN> <SPAN  CLASS="textit">METOCA: Predicting the metabolic balance of the oceans</SPAN>. (2010-) 108900 euros.
-<BR></SMALL>
-<P>
-<SMALL CLASS="SMALL"><SPAN ID="txt261">EU Framework 7</SPAN> <SPAN  CLASS="textit">Marine Ecosystem Evolution in a Changing Environment- MEECE</SPAN>. (2008-) 115000 euros.
-<BR><SPAN ID="txt263">FICTY</SPAN> <SPAN  CLASS="textit">Integration of Methods of image Analysis of planktonic Groups with techniques of Artificial Intelligence</SPAN>. (2009-2010) 89807 euros.
-<BR><SPAN ID="txt265">Effect of hydrographical disturbance on the structure of planktonic communities</SPAN> <SPAN  CLASS="textit">Efecto de las perturbaciones meteorológico-hidrográficas en la estructura de la comunidad planctónica- PERPLAN</SPAN>. (2007-2010) 98000 euros.
-<BR><SPAN ID="txt267">Ramon y Cajal grant</SPAN> <SPAN  CLASS="textit">Marine macroecology: the metabolic theory of ecology and oceanic carbon fluxes</SPAN>. (2006-2007) 15000 euros.
-<BR><SPAN ID="txt269">Study of the effects of &ldquo;Prestige&rdquo; oil spill on zooplankton and icthyoplankton</SPAN>. (2003-2006) 95000 euros.
-<BR></SMALL>
-<P>
-<SMALL CLASS="SMALL"> <SPAN  CLASS="textbf"><BIG CLASS="XLARGE">Organized Workshops/Symposia</BIG></SPAN> <BR> <BR>
-<SPAN ID="txt271"> &ldquo;Size structure of planktonic communities&rdquo;</SPAN>. Session chair, Special Session, ASLO Summer meeting in Santiago de Compostela, 2005.
-<BR><SPAN ID="txt272">GLOBEC /SPACC workshop</SPAN> on &ldquo;Image analysis to count and identify zooplankton&rdquo;. San Sebastian, 2005.
-<BR><SPAN ID="txt273">PICES/ICES Early Careers Scientist conference</SPAN> &ldquo;New frontiers in marine science&rdquo;. June, 2007.
-<BR></SMALL>
-<P>
-<SMALL CLASS="SMALL"> <SPAN  CLASS="textbf"><BIG CLASS="XLARGE">Working Groups</BIG></SPAN> <BR> <BR>
-<SPAN ID="txt275">ICES Working Group on Zooplankton Ecology</SPAN> Member since 2002.
-<BR><SPAN ID="txt276">SCOR Working 125</SPAN> Global comparison of zooplankton time series. Associate member. 2004-2007.
-<BR><SPAN ID="txt277">SCOR Working 113</SPAN>. Automatic Visual Plankton Identification. Full member. 2007-2010.
-<BR></SMALL>
-<P>
-<SMALL CLASS="SMALL"> <SPAN  CLASS="textbf"><BIG CLASS="XLARGE">Invited Talks and Seminars</BIG></SPAN> <BR> <BR>
-<SPAN ID="txt279">University of Oviedo.</SPAN> Seminars in ecology. &ldquo;Alometría de la producción y la respiración oceánicas y su papel en la modulación del  cambio climático. Oviedo 2006.
-<BR><SPAN ID="txt280">European Geophysical Union 2007.</SPAN> Marine macroecology: simple rules for complex systems. Viena.
-<BR><SPAN ID="txt281">GLOBEC IMBER symposium.</SPAN> Marine macroecology: simple rules for complex systems. Valencia 2007
-<BR><SPAN ID="txt282">PICES/ICES Symposium</SPAN>. Effects of Climate Change on the World's Oceans. Temperature rules the oceans biota.Marine macroecology: simple rules for complex systems. May 2008
-<BR> <SPAN  CLASS="textbf"><BIG CLASS="XLARGE">Profesional OutReach</BIG></SPAN> <BR> <BR>
-<SPAN ID="txt284">Reviewer</SPAN>: Trends in Ecology and Evolution, Proccedings of the National Academy of Sciences USA, Ecology, Ecology Letters,  Marine Ecology Progress Series, Marine Biology, Journal of Plankton Research, ICES Journal of Marine Science, Limnology and Oceanography, Journal of the Marine Biological Association UK, Global Change Biology, Oikos, Aquatic Microbial Ecology.
-<BR><SPAN ID="txt285">Proposal reviewer</SPAN> for  NERC UK, United States-Israel Binational Science Foundation, Council for the Earth and Life sciences - Netherlands Organisation for Scientific Research.
-<BR><SPAN ID="txt286">Ph.D. panel</SPAN>: Alejandro Isla (University of Oviedo), Eva Lopez (University of Oviedo), Aitor Alabina (University of the Basque Country) and Lucia Zarautz (University of the Basque Country).
-<BR></SMALL>
-<P>
-<SMALL CLASS="SMALL"><SPAN ID="txt287">Ph.D. lecturer</SPAN> for the University of Oviedo Ph.D. programme: Evolutionary and biogeochemical aspects of aquatic systems.
-</SMALL>
-<P>
 
-<DIV CLASS="navigation"><HR>
-<!--Navigation Panel-->
-<A NAME="tex2html56"
-  HREF="node2.html">
-<IMG WIDTH="37" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="next" SRC="next.png"></A> 
-<A NAME="tex2html54"
-  HREF="CV.html">
-<IMG WIDTH="26" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="up" SRC="up.png"></A> 
-<A NAME="tex2html48"
-  HREF="CV.html">
-<IMG WIDTH="63" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="previous" SRC="prev.png"></A>   
-<BR>
-<B> Next:</B> <A NAME="tex2html57"
-  HREF="node2.html">About this document ...</A>
-<B> Up:</B> <A NAME="tex2html55"
-  HREF="CV.html">CV</A>
-<B> Previous:</B> <A NAME="tex2html49"
-  HREF="CV.html">CV</A></DIV>
-<!--End of Navigation Panel-->
-
-</BODY>
-</HTML>
+</body></html>

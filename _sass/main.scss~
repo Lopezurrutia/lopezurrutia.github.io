@@ -1,7 +1,0 @@
-img.myimg{
-    height:200px;
-}
-
-.current {
-  color: green;
-}
